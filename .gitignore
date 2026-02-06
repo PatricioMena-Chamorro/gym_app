@@ -4,10 +4,6 @@ venv/
 __pycache__/
 *.pyc
 
-# DB local (no subas tu data)
-gym.db
-*.db
-
 # streamlit
 .streamlit/
 
