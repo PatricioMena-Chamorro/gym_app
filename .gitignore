@@ -1,0 +1,22 @@
+# entornos
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# DB local (no subas tu data)
+gym.db
+*.db
+
+# streamlit
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# uploads locales (si tienes carpeta)
+uploads/
+
+# El reset local de estadística
+reset_logs.py
